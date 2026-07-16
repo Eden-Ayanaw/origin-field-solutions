@@ -48,10 +48,7 @@ export default function Home()
 
         <p className="mt-8 text-lg text-[#4B5563] leading-8 max-w-lg">
 
-          We deliver reliable field operations,
-          research support, engineering services,
-          logistics coordination, and project
-          implementation across Ethiopia.
+          Origin Field Solutions delivers reliable field operations, research assistance, data collection, logistics coordination, and project implementation for universities, NGOs, government institutions, and development organizations across Ethiopia.
 
         </p>
 
@@ -131,7 +128,11 @@ export default function Home()
               and development programs.
 
             </p>
-
+<p className="mt-6 text-gray-600 leading-8">
+  We bridge the gap between researchers and reliable local field teams,
+  ensuring every project is conducted with professionalism, accuracy,
+  and integrity.
+</p>
           </div>
 
         </div>
@@ -249,67 +250,67 @@ export default function Home()
 
       </section>
 
-      {/* ================= IMPACT ================= */}
+    {/* ================= IMPACT ================= */}
 
-      <section className="py-28 bg-white">
+<section className="py-28 bg-white">
 
-        <div className="max-w-7xl mx-auto px-6">
+  <div className="max-w-7xl mx-auto px-6">
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-10 text-center">
+    <div className="grid grid-cols-2 md:grid-cols-4 gap-10 text-center">
 
-            <div>
+      <div>
 
-              <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
-                500+
-              </h2>
+        <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
+          Nationwide
+        </h2>
 
-              <p className="mt-4 text-gray-600">
-                Field Enumerators
-              </p>
+        <p className="mt-4 text-gray-600">
+          Field Operations Coverage
+        </p>
 
-            </div>
+      </div>
 
-            <div>
+      <div>
 
-              <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
-                11
-              </h2>
+        <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
+          11
+        </h2>
 
-              <p className="mt-4 text-gray-600">
-                Regions Covered
-              </p>
+        <p className="mt-4 text-gray-600">
+          Regional States Covered
+        </p>
 
-            </div>
+      </div>
 
-            <div>
+      <div>
 
-              <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
-                100%
-              </h2>
+        <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
+          100%
+        </h2>
 
-              <p className="mt-4 text-gray-600">
-                Commitment to Quality
-              </p>
+        <p className="mt-4 text-gray-600">
+          Commitment to Quality
+        </p>
 
-            </div>
+      </div>
 
-            <div>
+      <div>
 
-              <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
-                24/7
-              </h2>
+        <h2 className="text-5xl font-bold text-[#2F4F3A] hover:text-[#D4AF37] transition">
+          Dedicated
+        </h2>
 
-              <p className="mt-4 text-gray-600">
-                Project Support
-              </p>
+        <p className="mt-4 text-gray-600">
+          Project Support
+        </p>
 
-            </div>
+      </div>
 
-          </div>
+    </div>
 
-        </div>
+  </div>
 
-      </section>
+</section>
             {/* ================= WHY CLIENTS TRUST US ================= */}
 
       <section className="py-28 px-6 bg-[#F8F6F1]">
@@ -840,7 +841,7 @@ export default function Home()
 
                 Reliable field implementation across
                 Ethiopia, including rural and
-                hard-to-reach communities.
+                hard to reach communities.
 
               </p>
 
@@ -866,7 +867,7 @@ export default function Home()
             <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
               <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
-                End-to-End Support
+                End to End Support
               </h3>
 
               <p className="text-[#374151] leading-8">
