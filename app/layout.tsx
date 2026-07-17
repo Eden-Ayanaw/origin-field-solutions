@@ -14,9 +14,24 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Origin Field Solutions | Research & Field Operations in Ethiopia",
+
   description:
-    "We deliver reliable field operations, research assistance, data collection, logistics coordination, and project implementation across Ethiopia."
+    "Origin Field Solutions provides professional research assistance, field operations, data collection, logistics coordination, translation, and project management services across Ethiopia.",
+
+  keywords: [
+    "Research Ethiopia",
+    "Field Operations Ethiopia",
+    "Research Assistance",
+    "Data Collection",
+    "Enumerator Recruitment",
+    "Survey Implementation",
+    "Focus Group Discussion",
+    "NGO Research",
+    "Research Logistics",
+    "Origin Field Solutions"
+  ],
 };
+
 export default function RootLayout({
   children,
 }: Readonly<{

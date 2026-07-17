@@ -5,7 +5,13 @@ import {
   ShieldCheck,
   FileText,
   Briefcase,
+   Languages,
   Car,
+  GraduationCap,
+  Building2,
+  Landmark,
+  Microscope,
+  Globe,
 } from "lucide-react";
 
 export default function Home() 
@@ -413,80 +419,298 @@ export default function Home()
 
       </section>
 
-      {/* ================= WHO WE WORK WITH ================= */}
+      {/* ================= WHO WE SUPPORT ================= */}
 
-      <section className="py-28 px-6 bg-white">
 
-        <div className="max-w-7xl mx-auto">
 
-          <div className="text-center mb-16">
+<section className="py-28 bg-[#F8F6F1]">
 
-            <p className="uppercase tracking-[0.25em] text-[#D4AF37] font-semibold mb-4">
-              WHO WE WORK WITH
-            </p>
 
-            <h2 className="text-5xl font-bold text-[#2F4F3A] mb-6">
-              Supporting Organizations Across Ethiopia
-            </h2>
 
-            <p className="text-lg text-[#374151] max-w-3xl mx-auto leading-9">
+  <div className="max-w-7xl mx-auto px-6">
 
-              We proudly collaborate with organizations that require
-              dependable field operations, professional data collection,
-              and research implementation services.
 
-            </p>
 
-          </div>
+    <div className="text-center mb-16">
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 
-            <div className="bg-[#F8F6F1] rounded-3xl p-10 text-center shadow-lg">
 
-              <div className="text-5xl mb-5">🎓</div>
+     <h2 className="text-5xl font-bold text-[#2F4F3A] mb-6">
 
-              <h3 className="text-2xl font-bold text-[#2F4F3A]">
-                Universities
-              </h3>
+  Who We Support
 
-            </div>
+</h2> 
 
-            <div className="bg-[#F8F6F1] rounded-3xl p-10 text-center shadow-lg">
 
-              <div className="text-5xl mb-5">🌍</div>
 
-              <h3 className="text-2xl font-bold text-[#2F4F3A]">
-                NGOs
-              </h3>
+      <p className="text-[#374151] text-lg leading-8 max-w-3xl mx-auto">
 
-            </div>
+        We partner with organizations conducting research, development,
 
-            <div className="bg-[#F8F6F1] rounded-3xl p-10 text-center shadow-lg">
+        monitoring, evaluation, and field operations across Ethiopia.
 
-              <div className="text-5xl mb-5">🏛️</div>
+      </p>
 
-              <h3 className="text-2xl font-bold text-[#2F4F3A]">
-                Government Institutions
-              </h3>
 
-            </div>
 
-            <div className="bg-[#F8F6F1] rounded-3xl p-10 text-center shadow-lg">
+    </div>
 
-              <div className="text-5xl mb-5">🏗️</div>
 
-              <h3 className="text-2xl font-bold text-[#2F4F3A]">
-                Engineering &
-                Construction Firms
-              </h3>
 
-            </div>
+    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-          </div>
 
-        </div>
 
-      </section>
+      {/* Universities */}
+
+
+
+      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+
+
+        <GraduationCap
+
+          size={46}
+
+          className="text-[#D4AF37] mb-6"
+
+        />
+
+
+
+        <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+
+          Universities
+
+        </h3>
+
+
+
+        <p className="text-[#374151] leading-8">
+
+          Supporting academic research, field studies, surveys,
+
+          and institutional research projects.
+
+        </p>
+
+
+
+      </div>
+
+
+
+      {/* NGOs */}
+
+
+
+      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+
+
+        <Building2
+
+          size={46}
+
+          className="text-[#D4AF37] mb-6"
+
+        />
+
+
+
+        <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+
+          NGOs & Development Organizations
+
+        </h3>
+
+
+
+        <p className="text-[#374151] leading-8">
+
+          Delivering reliable field operations for humanitarian,
+
+          development, and social impact programs.
+
+        </p>
+
+
+
+      </div>
+
+
+
+      {/* Government */}
+
+
+
+      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+
+
+        <Landmark
+
+          size={46}
+
+          className="text-[#D4AF37] mb-6"
+
+        />
+
+
+
+        <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+
+          Government Institutions
+
+        </h3>
+
+
+
+        <p className="text-[#374151] leading-8">
+
+          Assisting public sector projects through professional
+
+          field coordination and research support.
+
+        </p>
+
+
+
+      </div>
+
+
+
+      {/* Research Institutions */}
+
+
+
+      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+
+
+        <Microscope
+
+          size={46}
+
+          className="text-[#D4AF37] mb-6"
+
+        />
+
+
+
+        <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+
+          Research Institutions
+
+        </h3>
+
+
+
+        <p className="text-[#374151] leading-8">
+
+          Providing dependable field teams, logistics,
+
+          and data collection services for research initiatives.
+
+        </p>
+
+
+
+      </div>
+
+
+
+      {/* International Researchers */}
+
+
+
+      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+
+
+        <Globe
+
+          size={46}
+
+          className="text-[#D4AF37] mb-6"
+
+        />
+
+
+
+        <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+
+          International Researchers
+
+        </h3>
+
+
+
+        <p className="text-[#374151] leading-8">
+
+          Helping international teams successfully conduct
+
+          research and fieldwork throughout Ethiopia.
+
+        </p>
+
+
+
+      </div>
+
+
+
+      {/* Consulting Firms */}
+
+
+
+      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+
+
+        <Briefcase
+
+          size={46}
+
+          className="text-[#D4AF37] mb-6"
+
+        />
+
+
+
+        <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+
+          Consulting Firms
+
+        </h3>
+
+
+
+        <p className="text-[#374151] leading-8">
+
+          Partnering with consulting firms requiring
+
+          trusted local field operations and research support.
+
+        </p>
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
+
+
+</section>
+
             {/* ================= OUR SERVICES ================= */}
 
       <section
@@ -634,7 +858,30 @@ export default function Home()
               </p>
 
             </div>
+            {/* Translation & Interpretation */}
 
+<div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+
+  <Languages
+    size={46}
+    className="text-[#D4AF37] mb-6"
+  />
+
+  <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
+    Translation & Interpretation
+  </h3>
+
+  <p className="text-[#374151] leading-8">
+
+    Professional language support for interviews,
+    focus group discussions, surveys,
+    stakeholder meetings, and field activities,
+    ensuring accurate communication between
+    researchers and local communities.
+
+  </p>
+
+</div>
             {/* Research Logistics */}
 
             <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
