@@ -34,9 +34,7 @@ export default function Home()
 
       <div>
 
-        <p className="uppercase tracking-[0.25em] text-[#D4AF37] font-semibold mb-5">
-          PROFESSIONAL FIELD OPERATIONS
-        </p>
+        
 
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-[#2F4F3A] leading-tight">
 
@@ -134,11 +132,6 @@ export default function Home()
               and development programs.
 
             </p>
-<p className="mt-6 text-gray-600 leading-8">
-  We bridge the gap between researchers and reliable local field teams,
-  ensuring every project is conducted with professionalism, accuracy,
-  and integrity.
-</p>
           </div>
 
         </div>
@@ -168,14 +161,7 @@ export default function Home()
 
           </p>
 
-          <p className="text-lg text-[#374151] leading-9 mt-8">
-
-            Origin Field Solutions was established to bridge that
-            gap by providing professional field operations,
-            experienced personnel, and dependable project
-            coordination that researchers can trust.
-
-          </p>
+          
 
         </div>
 
@@ -207,13 +193,6 @@ export default function Home()
                 Quality Data
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Every project is supervised with rigorous quality
-                control to ensure accurate, reliable,
-                and ethically collected data.
-
-              </p>
 
             </div>
 
@@ -223,14 +202,6 @@ export default function Home()
                 Ethical Practice
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                We promote professionalism, confidentiality,
-                transparency, informed consent,
-                and respect in every field activity.
-
-              </p>
-
             </div>
 
             <div className="bg-[#F8F6F1] rounded-3xl shadow-lg p-10 hover:shadow-2xl transition duration-300">
@@ -239,14 +210,6 @@ export default function Home()
                 Experienced Teams
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Our enumerators, supervisors,
-                translators, and coordinators are selected
-                based on competence, integrity,
-                experience, and local knowledge.
-
-              </p>
 
             </div>
 
@@ -349,17 +312,9 @@ export default function Home()
             <div className="bg-white rounded-3xl shadow-lg p-10">
 
               <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
-                Merit-Based Recruitment
+               
+ Merit-Based Recruitment
               </h3>
-
-              <p className="text-[#374151] leading-8">
-
-                Enumerators, supervisors, translators,
-                and coordinators are selected based on
-                professionalism, experience, language skills,
-                and integrity.
-
-              </p>
 
             </div>
 
@@ -369,13 +324,6 @@ export default function Home()
                 Active Quality Assurance
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Every assignment includes continuous monitoring,
-                supervision, and quality control throughout field
-                implementation.
-
-              </p>
 
             </div>
 
@@ -385,15 +333,6 @@ export default function Home()
                 Local Knowledge
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Our field professionals understand Ethiopia's
-                languages, cultures, and regional contexts,
-                enabling efficient communication and dependable
-                field operations.
-
-              </p>
-
             </div>
 
             <div className="bg-white rounded-3xl shadow-lg p-10">
@@ -401,15 +340,6 @@ export default function Home()
               <h3 className="text-2xl font-bold text-[#2F4F3A] mb-5">
                 Complete Project Support
               </h3>
-
-              <p className="text-[#374151] leading-8">
-
-                From project planning and recruitment to
-                logistics, supervision, reporting,
-                and coordination, we support clients
-                from beginning to completion.
-
-              </p>
 
             </div>
 
@@ -442,17 +372,6 @@ export default function Home()
 </h2> 
 
 
-
-      <p className="text-[#374151] text-lg leading-8 max-w-3xl mx-auto">
-
-        We partner with organizations conducting research, development,
-
-        monitoring, evaluation, and field operations across Ethiopia.
-
-      </p>
-
-
-
     </div>
 
 
@@ -465,7 +384,7 @@ export default function Home()
 
 
 
-      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+      <div className="bg-white rounded-3xl shadow-lg p-8 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
 
 
@@ -487,15 +406,6 @@ export default function Home()
 
 
 
-        <p className="text-[#374151] leading-8">
-
-          Supporting academic research, field studies, surveys,
-
-          and institutional research projects.
-
-        </p>
-
-
 
       </div>
 
@@ -505,7 +415,7 @@ export default function Home()
 
 
 
-      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+      <div className="bg-white rounded-3xl shadow-lg p-8 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
 
 
@@ -526,17 +436,6 @@ export default function Home()
         </h3>
 
 
-
-        <p className="text-[#374151] leading-8">
-
-          Delivering reliable field operations for humanitarian,
-
-          development, and social impact programs.
-
-        </p>
-
-
-
       </div>
 
 
@@ -545,7 +444,7 @@ export default function Home()
 
 
 
-      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+      <div className="bg-white rounded-3xl shadow-lg p-8 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
 
 
@@ -566,17 +465,6 @@ export default function Home()
         </h3>
 
 
-
-        <p className="text-[#374151] leading-8">
-
-          Assisting public sector projects through professional
-
-          field coordination and research support.
-
-        </p>
-
-
-
       </div>
 
 
@@ -585,7 +473,7 @@ export default function Home()
 
 
 
-      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+      <div className="bg-white rounded-3xl shadow-lg p-8 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
 
 
@@ -607,16 +495,6 @@ export default function Home()
 
 
 
-        <p className="text-[#374151] leading-8">
-
-          Providing dependable field teams, logistics,
-
-          and data collection services for research initiatives.
-
-        </p>
-
-
-
       </div>
 
 
@@ -625,7 +503,7 @@ export default function Home()
 
 
 
-      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+      <div className="bg-white rounded-3xl shadow-lg p-8 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
 
 
@@ -647,16 +525,6 @@ export default function Home()
 
 
 
-        <p className="text-[#374151] leading-8">
-
-          Helping international teams successfully conduct
-
-          research and fieldwork throughout Ethiopia.
-
-        </p>
-
-
-
       </div>
 
 
@@ -665,7 +533,7 @@ export default function Home()
 
 
 
-      <div className="bg-white rounded-3xl shadow-lg p-10 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
+      <div className="bg-white rounded-3xl shadow-lg p-8 hover:shadow-2xl hover:-translate-y-2 transition duration-300">
 
 
 
@@ -686,17 +554,6 @@ export default function Home()
         </h3>
 
 
-
-        <p className="text-[#374151] leading-8">
-
-          Partnering with consulting firms requiring
-
-          trusted local field operations and research support.
-
-        </p>
-
-
-
       </div>
 
 
@@ -711,7 +568,7 @@ export default function Home()
 
 </section>
 
-            {/* ================= OUR SERVICES ================= */}
+            {/* ================= OUR CORE SERVICES ================= */}
 
       <section
         id="services"
@@ -757,13 +614,8 @@ export default function Home()
               </h3>
 
               <p className="text-[#374151] leading-8">
-
-                Professional quantitative and qualitative
-                data collection using trained field
-                enumerators throughout Ethiopia.
-
-              </p>
-
+  Reliable quantitative and qualitative data collection across Ethiopia.
+</p>
             </div>
 
             {/* Enumerator Recruitment */}
@@ -779,15 +631,9 @@ export default function Home()
                 Enumerator Recruitment
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Recruitment of experienced enumerators,
-                supervisors, translators,
-                and qualified field coordinators
-                based on merit and professionalism.
-
-              </p>
-
+             <p className="text-[#374151] leading-8">
+  Recruitment of qualified field enumerators for research projects.
+</p>
             </div>
 
             {/* Field Supervision */}
@@ -804,12 +650,8 @@ export default function Home()
               </h3>
 
               <p className="text-[#374151] leading-8">
-
-                Active supervision, quality assurance,
-                monitoring, and verification throughout
-                every stage of field implementation.
-
-              </p>
+  Professional supervision ensuring quality and ethical field operations.
+</p>
 
             </div>
                         {/* Survey Implementation */}
@@ -826,12 +668,8 @@ export default function Home()
               </h3>
 
               <p className="text-[#374151] leading-8">
-
-                Household surveys, key informant interviews,
-                focus group discussions, baseline, midline,
-                endline studies, and community assessments.
-
-              </p>
+  Surveys, interviews, focus groups, and community assessments.
+</p>
 
             </div>
 
@@ -848,14 +686,9 @@ export default function Home()
                 Research Assistance
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Supporting researchers with project planning,
-                field coordination, logistics,
-                implementation, documentation,
-                and reporting support.
-
-              </p>
+             <p className="text-[#374151] leading-8">
+  End-to-end support for research and field operations.
+</p>
 
             </div>
             {/* Translation & Interpretation */}
@@ -872,14 +705,8 @@ export default function Home()
   </h3>
 
   <p className="text-[#374151] leading-8">
-
-    Professional language support for interviews,
-    focus group discussions, surveys,
-    stakeholder meetings, and field activities,
-    ensuring accurate communication between
-    researchers and local communities.
-
-  </p>
+  Professional language support for research activities.
+</p>
 
 </div>
             {/* Research Logistics */}
@@ -896,15 +723,8 @@ export default function Home()
               </h3>
 
               <p className="text-[#374151] leading-8">
-
-                Transportation, experienced drivers,
-                accommodation coordination,
-                equipment movement,
-                and complete logistical support
-                for research teams across Ethiopia.
-
-              </p>
-
+  Vehicles, travel, and logistics support across Ethiopia.
+</p>
             </div>
 
           </div>
@@ -913,123 +733,7 @@ export default function Home()
 
       </section>
 
-     {/* ================= HOW WE WORK ================= */}
-
-      <section className="py-28 px-6 bg-white">
-
-        <div className="max-w-7xl mx-auto">
-
-          <div className="text-center mb-16">
-
-            <p className="uppercase tracking-[0.25em] text-[#D4AF37] font-semibold mb-4">
-              OUR PROCESS
-            </p>
-
-            <h2 className="text-5xl font-bold text-[#2F4F3A]">
-              How We Work
-            </h2>
-
-          </div>
-
-          <div className="grid md:grid-cols-5 gap-8 text-center">
-
-                    <div>
-
-              <div className="w-20 h-20 mx-auto rounded-full bg-[#D4AF37] text-[#2F4F3A] flex items-center justify-center text-3xl font-bold mb-6">
-                1
-              </div>
-
-              <h3 className="text-2xl font-bold text-[#2F4F3A] mb-4">
-                Understand
-              </h3>
-
-              <p className="text-[#374151] leading-8">
-                We begin by understanding your research objectives,
-                methodology, timeline, and operational requirements.
-              </p>
-
-            </div>
-
-            <div>
-
-              <div className="w-20 h-20 mx-auto rounded-full bg-[#D4AF37] text-[#2F4F3A] flex items-center justify-center text-3xl font-bold mb-6">
-                2
-              </div>
-
-              <h3 className="text-2xl font-bold text-[#2F4F3A] mb-4">
-                Recruit
-              </h3>
-
-              <p className="text-[#374151] leading-8">
-                We recruit experienced enumerators,
-                supervisors, translators,
-                and field coordinators that best fit
-                your project's requirements.
-              </p>
-
-            </div>
-
-            <div>
-
-              <div className="w-20 h-20 mx-auto rounded-full bg-[#D4AF37] text-[#2F4F3A] flex items-center justify-center text-3xl font-bold mb-6">
-                3
-              </div>
-
-              <h3 className="text-2xl font-bold text-[#2F4F3A] mb-4">
-                Train
-              </h3>
-
-              <p className="text-[#374151] leading-8">
-                Every field team receives project-specific
-                training to ensure consistency,
-                professionalism, and quality.
-              </p>
-
-            </div>
-
-            <div>
-
-              <div className="w-20 h-20 mx-auto rounded-full bg-[#D4AF37] text-[#2F4F3A] flex items-center justify-center text-3xl font-bold mb-6">
-                4
-              </div>
-
-              <h3 className="text-2xl font-bold text-[#2F4F3A] mb-4">
-                Implement
-              </h3>
-
-              <p className="text-[#374151] leading-8">
-                We coordinate logistics,
-                supervise field operations,
-                and monitor quality throughout
-                implementation.
-              </p>
-
-            </div>
-
-            <div>
-
-              <div className="w-20 h-20 mx-auto rounded-full bg-[#D4AF37] text-[#2F4F3A] flex items-center justify-center text-3xl font-bold mb-6">
-                5
-              </div>
-
-              <h3 className="text-2xl font-bold text-[#2F4F3A] mb-4">
-                Deliver
-              </h3>
-
-              <p className="text-[#374151] leading-8">
-                We deliver organized,
-                verified, and dependable field
-                outputs that support confident
-                decision-making.
-              </p>
-
-            </div>
-
-          </div>
-
-        </div>
-
-      </section>
+     
       {/* ================= WHY CHOOSE ORIGIN FIELD SOLUTIONS ================= */} 
 
       <section className="py-28 px-6 bg-[#F8F6F1]">
@@ -1046,15 +750,6 @@ export default function Home()
               Your Trusted Field Operations Partner
             </h2>
 
-            <p className="text-lg text-[#374151] max-w-3xl mx-auto leading-9">
-
-              We combine experienced professionals,
-              rigorous quality standards,
-              and nationwide field coordination
-              to help organizations complete research
-              projects with confidence.
-
-            </p>
 
           </div>
 
@@ -1066,15 +761,6 @@ export default function Home()
                 Professional Teams
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Skilled enumerators,
-                supervisors,
-                translators,
-                and coordinators selected through
-                a merit-based recruitment process.
-
-              </p>
 
             </div>
 
@@ -1084,13 +770,6 @@ export default function Home()
                 Nationwide Coverage
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Reliable field implementation across
-                Ethiopia, including rural and
-                hard to reach communities.
-
-              </p>
 
             </div>
 
@@ -1100,14 +779,6 @@ export default function Home()
                 Quality Assurance
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                Continuous supervision,
-                monitoring,
-                and verification ensure
-                reliable and ethical data collection.
-
-              </p>
 
             </div>
 
@@ -1117,15 +788,6 @@ export default function Home()
                 End to End Support
               </h3>
 
-              <p className="text-[#374151] leading-8">
-
-                From planning and recruitment
-                to logistics,
-                field supervision,
-                and project completion,
-                we support every stage.
-
-              </p>
 
             </div>
 
