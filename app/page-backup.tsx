@@ -338,7 +338,7 @@ export default function Home() {
   <div className="max-w-7xl mx-auto">
 
     <h2 className="text-4xl font-bold text-center text-[#3F4F22] mb-14">
-      Our Services
+      Explore Services
     </h2>
 
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

@@ -28,13 +28,11 @@ export default function Home()
 
   <div className="max-w-7xl mx-auto px-6">
 
-    <div className="grid lg:grid-cols-2 gap-12 items-center">
+    <div className="grid lg:grid-cols-2 gap-8 items-center">
 
       {/* ================= LEFT SIDE ================= */}
 
       <div>
-
-        
 
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-[#2F4F3A] leading-tight">
 
@@ -50,19 +48,13 @@ export default function Home()
 
         </h1>
 
-        <p className="mt-8 text-lg text-[#4B5563] leading-8 max-w-lg">
-
-          Origin Field Solutions delivers reliable field operations, research assistance, data collection, logistics coordination, and project implementation for universities, NGOs, government institutions, and development organizations across Ethiopia.
-
-        </p>
-
-        <div className="mt-10 flex flex-wrap gap-4">
+        <div className="mt-8 flex flex-wrap gap-4">
 
           <a
             href="#services"
             className="bg-[#2F4F3A] hover:bg-[#23392C] text-white px-8 py-4 rounded-xl font-semibold shadow-lg transition duration-300"
           >
-            Our Services
+            Explore Services
           </a>
 
           <a
@@ -83,7 +75,7 @@ export default function Home()
         <img
           src="/hero-background.png"
           alt="Origin Field Solutions"
-          className="w-full max-w-3xl h-auto"
+          className="w-full max-w-4xl h-auto"
         />
 
       </div>
@@ -115,23 +107,19 @@ export default function Home()
 
             <p className="text-lg text-[#374151] leading-9">
 
-              Origin Field Solutions is an Ethiopian field
-              operations and research support company dedicated
-              to helping organizations successfully implement
-              research projects throughout the country.
+  Origin Field Solutions is an Ethiopian field operations and
+  research support company providing reliable data collection,
+  logistics coordination, translation and interpretation,
+  and project implementation services across Ethiopia.
 
-              We provide experienced enumerators,
-              supervisors, translators,
-              field coordinators,
-              logistics support,
-              and professional project management for
-              academic research, market studies,
-              impact evaluations,
-              engineering and construction studies,
-              environmental assessments,
-              and development programs.
+  <br /><br />
 
-            </p>
+  We bridge the gap between researchers and reliable local
+  field teams, ensuring every project is delivered with
+  professionalism, accuracy, integrity, and respect for
+  local communities.
+
+</p>
           </div>
 
         </div>
@@ -580,7 +568,7 @@ export default function Home()
           <div className="text-center mb-16">
 
             <p className="uppercase tracking-[0.25em] text-[#D4AF37] font-semibold mb-4">
-              OUR SERVICES
+              EXPLORE SERVICES
             </p>
 
             <h2 className="text-5xl font-bold text-[#2F4F3A] mb-6">
@@ -1050,12 +1038,7 @@ export default function Home()
       </h2>
 
       <p className="text-gray-400 leading-8">
-        Origin Field Solutions provides professional field operations,
-        research support, data collection, engineering field services,
-        logistics coordination, and project implementation across Ethiopia.
-        We help researchers, NGOs, government institutions, universities,
-        consulting firms, and private organizations deliver successful
-        field projects with confidence.
+        We bridge the gap between researchers and reliable local field teams, ensuring every project is conducted with professionalism, accuracy, and integrity.
       </p>
 
     </div>
